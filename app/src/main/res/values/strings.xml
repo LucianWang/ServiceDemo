@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+
+    <string name="accessibility_description">启动按键监听服务</string>
+</resources>
